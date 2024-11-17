@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaitanya
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAVA Script
-- 📫 How to reach me Csbd06@gmail.com
+- 📫 How to reach me workwithchaitanya816@gmail.com
 
 
 <!---
